@@ -1,4 +1,4 @@
-package osipovmr.test.accountservice;
+package osipovmr.test.accountservice.service;
 
 
 public interface AccountService {
